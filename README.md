@@ -1,5 +1,9 @@
-# COMPUTER VISION (MIDTERM TASK) Priscilla_Tiara-4222301026
-Image Classification with Machine Learning Pipeline
+Name : Priscilla Tiara S 
+Student Number : 4222301026
+Class : RE 6 A
+
+# COMPUTER VISION (MIDTERM TASK) 
+Image Classification with Machine Learning
 
 Dataset : 
 eminist-letters-train.csv
